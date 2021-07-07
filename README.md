@@ -3,7 +3,7 @@
 create trigger TRI_estudiante
 on estudiante 
 for insert
-as
+as ashasdas
 print 'se realizo el ingreso de un nuevo estudiante';
 go
 
