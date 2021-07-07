@@ -1,5 +1,5 @@
 # ColegioDanteT
---triggers modo msm "ingreso"
+--triggers modo msm "ingreso"vgbhnjm,.-cvgbhnjmk,
 create trigger TRI_estudiante
 on estudiante 
 for insert
